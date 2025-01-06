@@ -375,7 +375,7 @@ button{
     width: 45%;
     aspect-ratio: 1/1;
     position: relative;
-    background-image: url("/main/img/svg/target.svg");
+    background-image: url("https://github.com/Sandeepmmv/Gaming-Cafe/blob/main/img/svg/target.svg");
     background-repeat: no-repeat;
     display: grid;
     place-items: center;
