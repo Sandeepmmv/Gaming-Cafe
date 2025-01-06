@@ -211,7 +211,7 @@ button{
 .homearea .land .wall .wallimg {
     background-size: cover;
     height: 100%;
-    background-image: url("/aaweb/img/14.jpg");
+    background-image: url("/img/14.jpg");
     filter: blur(0px) grayscale(0%);
     transform: scale(110%);
     animation: wallImgAnime 3s ease-out;
@@ -375,7 +375,7 @@ button{
     width: 45%;
     aspect-ratio: 1/1;
     position: relative;
-    background-image: url("/aaweb/img/svg/target.svg");
+    background-image: url("/main/img/svg/target.svg");
     background-repeat: no-repeat;
     display: grid;
     place-items: center;
