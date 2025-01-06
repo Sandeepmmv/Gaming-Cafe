@@ -211,7 +211,7 @@ button{
 .homearea .land .wall .wallimg {
     background-size: cover;
     height: 100%;
-    background-image: url("/img/14.jpg");
+    background-image: url("img/14.jpg");
     filter: blur(0px) grayscale(0%);
     transform: scale(110%);
     animation: wallImgAnime 3s ease-out;
